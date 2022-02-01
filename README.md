@@ -29,11 +29,6 @@ Over the past year I've learned the Blender Python API, how to manipulate the co
 
 Looking to 2022 I'm planning on learing more about Django/Python backend web development, as well as the Three.js module. My main goals are; to create a 3D website for ThisCozyStudio.com with the help of our 3D Designers Caelin and Devlin, build out an integrated IPFS node API service that will interface with BMNFTs, and do client work for This Cozy Studio.
 
-### Socials
-Torrin Leonard LinkedIn: https://www.linkedin.com/in/torrin-leonard-8343a1154/
-
-Torrin Leonard Discrod User ID: ``TorrinLeonard#2744``
-
 ### My Work
 This Cozy Studio Youtube Channel: https://www.youtube.com/c/ThisCozyStudio
 
