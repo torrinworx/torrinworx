@@ -13,9 +13,11 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-</b>
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-Hello there,
+<br />
+
+Hello there! 
 
 My name is Torrin Leonard. I'm the creator of the Blend_My_NFTs Blender add on as well as the Co-Founder, CEO, lead Software Engineer and Web Developler at This Cozy Studio Inc. 
 
