@@ -1,5 +1,21 @@
-##Intro
-Hello there, 
+### Intro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://discord.com/users/605010128521003008">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/LeonardTorrin">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/torrin-leonard-8343a1154/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.youtube.com/c/ThisCozyStudio">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+
+</b>
+
+Hello there,
 
 My name is Torrin Leonard. I'm the creator of the Blend_My_NFTs Blender add on as well as the Co-Founder, CEO, lead Software Engineer and Web Developler at This Cozy Studio Inc. 
 
@@ -11,12 +27,12 @@ Over the past year I've learned the Blender Python API, how to manipulate the co
 
 Looking to 2022 I'm planning on learing more about Django/Python backend web development, as well as the Three.js module. My main goals are; to create a 3D website for ThisCozyStudio.com with the help of our 3D Designers Caelin and Devlin, build out an integrated IPFS node API service that will interface with BMNFTs, and do client work for This Cozy Studio.
 
-##Socials
+### Socials
 Torrin Leonard LinkedIn: https://www.linkedin.com/in/torrin-leonard-8343a1154/
 
 Torrin Leonard Discrod User ID: ``TorrinLeonard#2744``
 
-##My Work
+### My Work
 This Cozy Studio Youtube Channel: https://www.youtube.com/c/ThisCozyStudio
 
 This Cozy Studio Discord Server: https://discord.gg/UpZt5Un57t
