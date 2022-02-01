@@ -3,13 +3,13 @@
 <a href="https://discord.com/users/605010128521003008" target="_blank">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/LeonardTorrin" target="_blank>
+<a href="https://twitter.com/LeonardTorrin" target="_blank">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/torrin-leonard-8343a1154/" target="_blank>
+<a href="https://www.linkedin.com/in/torrin-leonard-8343a1154/" target="_blank">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/c/ThisCozyStudio" target="_blank>
+<a href="https://www.youtube.com/c/ThisCozyStudio" ttarget="_blank">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
