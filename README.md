@@ -30,12 +30,10 @@ Over the past year I've learned the Blender Python API, how to manipulate the co
 Looking to 2022 I'm planning on learning more about Django/Python backend web development, as well as the Three.js module. My main goals are; to create a 3D website for ThisCozyStudio.com with the help of our 3D Designers Caelin and Devlin, build out an integrated IPFS node API service that will interface with BMNFTs, and do client work for This Cozy Studio.
 
 ### My Work
-This Cozy Studio Youtube Channel: https://www.youtube.com/c/ThisCozyStudio
-
-This Cozy Studio Discord Server: https://discord.gg/UpZt5Un57t
+ThisCozyStudio.com: https://www.thiscozystudio.com/
 
 Blend_My_NFTs Blender Add On: https://github.com/torrinworx/Blend_My_NFTs
 
-ThisCozyStudio.com: https://thiscozystudio.com/
+This Cozy Studio Youtube Channel: https://www.youtube.com/c/ThisCozyStudio
 
-
+This Cozy Studio Discord Server: https://discord.gg/UpZt5Un57t
