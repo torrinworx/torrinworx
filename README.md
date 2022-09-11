@@ -59,8 +59,8 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i>Cozy Auto Texture</i>:<ul><li>A Blender add-on that integrates the Stable Diffusion directly withing Blender to make AI generated tiled textures available to everyone. (Under construction)</li></ul></li>
+	<li><i>Cozy Auto Texture</i>:<ul><li>A Blender add-on that integrates the Stable Diffusion AI image generation model directly within Blender to make AI generated tiled textures available to everyone. (Under construction)</li></ul></li>
 	<li><i>Blend_My_NFTs</i>:<ul><li>A Blender add-on that makes creating a 3D NFT collection easy! Generate thousands of 3D models, animations, or images with this simple add-on. (Released)</li></ul></li>
 	<li><i><a href="https://www.thiscozystudio.com/">ThisCozyStudio.com (SAS)</a></i>:<ul><li>A website that enables easy cloud rendering and NFT minting and storage from the web or withing Blender using our Cozy API. (Yet to be released)</li></ul></li>
-	<li><i>Everything else in the back of my head...</i></li>
+	<li><i>A possible standard systel for implementing AI models into Blender and other 3D model software. Just a thought.</i></li>
 </ul>
