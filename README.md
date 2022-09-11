@@ -28,28 +28,34 @@
 </div>
 </p>
 
+<p align="center">Contact me:</p>
+<p>
 <div align="center">
-  <a href="https://open.spotify.com/user/31tvov5kdwgu47gtaxonapqwp4py">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tvov5kdwgu47gtaxonapqwp4py&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-  </a>
+	<a href="https://discord.com/users/605010128521003008" rel="nofollow">
+	 	<img alt="Torrin Leonard's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
+	</a>
+	<a href="https://twitter.com/LeonardTorrin" rel="nofollow">
+  		<img alt="Torrin Leonard's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+	</a>
+	<a href="https://www.linkedin.com/in/torrin-leonard-8343a1154/" rel="nofollow">
+  		<img alt="Torrin Leonard's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+	</a>
 </div>
-
-<p align="center">Contact me on:</p>
-<p align="center"><img src="https://img.shields.io/badge/TorrinLeonard%232744-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=blue"></p>
+</p>
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <br/>
 <p align="left">
   <a href="https://dreadsec.me/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=D7EAD&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=D7EAD&theme=gruvbox&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=gruvbox&hide_border=true">		  
   </a>
 </p>
 <br>
 
-[![Dread's Activity Graph](https://activity-graph.herokuapp.com/graph?username=D7EAD&custom_title=Dread's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
-<p align="center"><img src="https://profile-counter.glitch.me/{D7EAD}/count.svg"></p>
+[![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
+<p align="center"><img src="https://profile-counter.glitch.me/{torrinworx}/count.svg"></p>
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Recent/Upcoming Projects
 <ul>			
