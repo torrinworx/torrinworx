@@ -47,20 +47,21 @@
 
 <br/>
 <p align="left">
-  <a href="torrinleonard.com">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
+  <a href="https://torrinleonard.com">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=gruvbox&hide_border=true">		  
   </a>
 </p>
 <br>
 
-[![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
+[![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://torrinleonard.com)
 <p align="center"><img src="https://profile-counter.glitch.me/{torrinworx}/count.svg"></p>
 
-## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Recent/Upcoming Projects
+## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i>libtwitter</i>:<ul><li>a C++17 static and dynamic library to wrap the entire Twitter API. In progress.</li></ul></li>
-	<li><i>ezChat (or another name)</i>:<ul><li>a fully-functional client-server chat application (similar to IRC) that implements public-key infrastructure for key exchange and AES for symmetrically encrypted client-server communication, as well as a hierarchal structure for administrative and moderation purposes. Project 40%ish done, in limbo for now.</li></ul></li>
-	<li><i><a href="https://github.com/D7EAD/HashPlusPlus">Hash++ (released)</a></i>:<ul><li>a header-file only library that allows a user to retrieve multiple types of hashes from data, files, and files in nested directories--all through a simple, lightweight interface!</li></ul></li>
+	<li><i>Cozy Auto Texture</i>:<ul><li>A Blender add-on that integrates the Stable Diffusion directly withing Blender to make AI generated tiled textures available to everyone. Under construction.</li></ul></li>
+	
+	<li><i>Blend_My_NFTs</i>:<ul><li>a fully-functional client-server chat application (similar to IRC) that implements public-key infrastructure for key exchange and AES for symmetrically encrypted client-server communication, as well as a hierarchal structure for administrative and moderation purposes. Project 40%ish done, in limbo for now.</li></ul></li>
+	<li><i><a href="https://www.thiscozystudio.com/">ThisCozyStudio.com (SAS)</a></i>:<ul><li>a header-file only library that allows a user to retrieve multiple types of hashes from data, files, and files in nested directories--all through a simple, lightweight interface!</li></ul></li>
 	<li><i>Everything else in the back of my head...</i></li>
 </ul>
