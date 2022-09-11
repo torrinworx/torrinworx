@@ -64,3 +64,20 @@
 	<li><i><a href="https://www.thiscozystudio.com/">ThisCozyStudio.com (SAS)</a></i>:<ul><li>A website that enables easy cloud rendering and NFT minting and storage from the web or withing Blender using our Cozy API. (Yet to be released)</li></ul></li>
 	<li><i>A possible standard system for implementing AI models into Blender and other 3D model software. Just a thought.</i></li>
 </ul>
+
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+<p>My name is Torrin Leonard. I'm the creator of the Blender add-ons Blend_My_NFTs and Cozy Auto Texture as well as the Co-Founder, CEO, lead Software Engineer and Web Developer at This Cozy Studio Inc.
+</p>
+
+<p>
+I got started programming two years ago; I wanted to learn Python to create a universal scientific calculator that would traverse the formulas of Physics, Chemistry, Mathematics, and all other fields of science. My goal was for it to function similar to the Scratch programming language. I started working at [League](https://league.com/ca/) through my family's business worX4you as an Automation, Accessibility, and QA Software Tester. I learned the importance of Accessibility in modern web development through my <a href="https://courses.edx.org/certificates/05d8dc2dc24e42238e616f83329ee2f0" rel="nofollow">WCAG certificate</a>. I also learned Node.js and the TestCafe module where I would run automated software tests in TypeScript for League and President's Choice web and mobile applications.
+</p>
+
+<p>
+Over the past year I've learned the Blender Python API, how to manipulate the core functionality of Blender and create a UI system for users to interact with. I've written and documented it's functionality in an organized readme file, as well as created multiple tutorial videos on how to use the software. I've also spent countless hours working with my team helping and engaging with members of our growing Discord and YouTube community.
+</p>
+
+<p>
+Looking to 2022 I'm planning on learning more about Django/Python backend web development, as well as the Three.js module. My main goals are; to create a 3D website for ThisCozyStudio.com with the help of our 3D Designers Caelin and Devlin, build out an integrated IPFS node API service that will interface with BMNFTs, and do client work for This Cozy Studio.
+</p>
