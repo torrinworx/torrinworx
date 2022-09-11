@@ -47,7 +47,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://dreadsec.me/">
+  <a href="torrinleonard.com">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=gruvbox&hide_border=true">		  
   </a>
