@@ -1,39 +1,60 @@
-### Intro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Torrin.;I+love+open-source.;I+love+Blender.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+</p>
 
-<a href="https://discord.com/users/605010128521003008" target="_blank">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/LeonardTorrin" target="_blank">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/torrin-leonard-8343a1154/" target="_blank">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/c/ThisCozyStudio" ttarget="_blank">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
+<p>
+<div align="center" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/LeonardTorrin?style=social">
+  <img src="https://img.shields.io/github/followers/torrinworx?style=social">
+  <a href="https://www.youtube.com/c/ThisCozyStudio">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">	
+  </a>
+</div>
+</p>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23181717.svg?style=for-the-badge&logo=amazonaws&logoColor=white">	
+  <img src="https://img.shields.io/badge/JavaScript-%23008FBA.svg?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</div>
+</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Pycharm-5C2D91.svg?style=for-the-badge&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
+</div>
+</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=torrinworx.torrinworx)
+<div align="center">
+  <a href="https://open.spotify.com/user/31tvov5kdwgu47gtaxonapqwp4py">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tvov5kdwgu47gtaxonapqwp4py&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</div>
 
-<br />
+<p align="center">Contact me on:</p>
+<p align="center"><img src="https://img.shields.io/badge/TorrinLeonard%232744-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=blue"></p>
 
-Hello there! 
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-My name is Torrin Leonard. I'm the creator of the Blend_My_NFTs Blender add on as well as the Co-Founder, CEO, lead Software Engineer and Web Developer at This Cozy Studio Inc.
+<br/>
+<p align="left">
+  <a href="https://dreadsec.me/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=D7EAD&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=D7EAD&theme=gruvbox&hide_border=true">		  
+  </a>
+</p>
+<br>
 
-I'm currently working on the Blender add on Blend_My_NFTs, a 3D NFT generator designed to be fully integrated with Blender. My most recent work on the project has been porting the script version of the add on to a user friendly GUI. Throughout this entire project I've learned Python, Blender's API, and web development. Not only have I created BMNFTs; I also developed ThisCozyStudio.com, a working NFT minting site with the NFT-Maker Pro API designed to sell our Cozy Place NFTs on the Cardano blockchain.
+[![Dread's Activity Graph](https://activity-graph.herokuapp.com/graph?username=D7EAD&custom_title=Dread's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
+<p align="center"><img src="https://profile-counter.glitch.me/{D7EAD}/count.svg"></p>
 
-I got started programming two years ago; I wanted to learn Python to create a universal scientific calculator that would traverse the formulas of Physics, Chemistry, Mathematics, and all other fields of science. I started working at League through my family's business worX4you as an Automation, Accessibility, and QA Software Tester. I learned the importance of Accessibility in modern web development through my [WCAG certificate](https://courses.edx.org/certificates/05d8dc2dc24e42238e616f83329ee2f0). I also learned Node.js and the TestCafe module where I would run automated software tests in TypeScript for League and President's Choice web and mobile applications.
-
-Over the past year I've learned the Blender Python API, how to manipulate the core functionality of Blender and create a UI system for users to interact with. I've written and documented it's functionality in an organized readme file, as well as created multiple tutorial videos on how to use the software. I've also spent countless hours working with my team helping and engaging with members of our growing Discord and YouTube community.
-
-Looking to 2022 I'm planning on learning more about Django/Python backend web development, as well as the Three.js module. My main goals are; to create a 3D website for ThisCozyStudio.com with the help of our 3D Designers Caelin and Devlin, build out an integrated IPFS node API service that will interface with BMNFTs, and do client work for This Cozy Studio.
-
-### My Work
-ThisCozyStudio.com: https://www.thiscozystudio.com/
-
-Blend_My_NFTs Blender Add On: https://github.com/torrinworx/Blend_My_NFTs
-
-This Cozy Studio Youtube Channel: https://www.youtube.com/c/ThisCozyStudio
-
-This Cozy Studio Discord Server: https://discord.gg/UpZt5Un57t
+## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Recent/Upcoming Projects
+<ul>			
+	<li><i>libtwitter</i>:<ul><li>a C++17 static and dynamic library to wrap the entire Twitter API. In progress.</li></ul></li>
+	<li><i>ezChat (or another name)</i>:<ul><li>a fully-functional client-server chat application (similar to IRC) that implements public-key infrastructure for key exchange and AES for symmetrically encrypted client-server communication, as well as a hierarchal structure for administrative and moderation purposes. Project 40%ish done, in limbo for now.</li></ul></li>
+	<li><i><a href="https://github.com/D7EAD/HashPlusPlus">Hash++ (released)</a></i>:<ul><li>a header-file only library that allows a user to retrieve multiple types of hashes from data, files, and files in nested directories--all through a simple, lightweight interface!</li></ul></li>
+	<li><i>Everything else in the back of my head...</i></li>
+</ul>
