@@ -101,7 +101,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-My name is Torrin Leonard. I'm the creator of the Blender add-ons Blend_My_NFTs and Cozy Auto Texture as well as the Co-Founder, CEO, lead Software Engineer and Web Developer at This Cozy Studio Inc.
+My name is Torrin Leonard. I'm the creator of the industry standard Blender add-ons Blend_My_NFTs and Cozy Auto Texture as well as the Co-Founder, CEO, lead Software Engineer and Web Developer at This Cozy Studio Inc.
 
 When I first started programming I wanted to learn Python to create a universal scientific calculator that would traverse the formulas of Physics, Chemistry, Mathematics, and all other fields of science. My goal was for it to function similar to the Scratch programming language and complete it in time for my first year as a Physics and Astronomy student at the University of Waterloo. I then started working at League through my family's business worX4you as an Automation, Accessibility, and QA Software Tester. I learned the importance of Accessibility in modern web development through my WCAG certificate. I also learned Node.js and the TestCafe module where I would run automated software tests in TypeScript for League and President's Choice web and mobile applications.
 
