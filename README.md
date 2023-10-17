@@ -100,13 +100,3 @@
 </ul>
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
-
-As a passionate software developer and project manager, I have honed a diverse set of skills through various projects and experiences. My journey as a developer began with a desire to create a universal scientific calculator using Python, with the goal of traversing the formulas of various fields of science, such as Physics, Chemistry, and Mathematics. This led me to learn Python and eventually enroll in a Physics and Astronomy program at the University of Waterloo.
-
-I began my professional career as an Automation, Accessibility, and QA Software Tester at League through my family's company worX4you Inc., where I gained valuable experience in web development, software testing, and accessibility through my WCAG certification. I also learned Node.js and the TestCafe module, which allowed me to run automated software tests in TypeScript for League and President's Choice web and mobile applications.
-
-My passion for 3D graphics and animation led me to learn the Blender Python API and create the industry-standard open-source Blender add-ons "Blend_My_NFTs" and "Cozy Auto Texture". Through my work on these add-ons, I gained experience in creating a UI system for users to interact with, as well as documenting its functionality in an organized readme file. I also created and uploaded several YouTube tutorials on how to use the software, and helped engage with members of our growing Discord and YouTube community. Our YouTube channel has just surpassed 200,000 views and is just under 3,000 subscribers, while our Discord server sits just below 3,000 members.
-
-As CEO, Co-Founder, and lead software engineer of This Cozy Studio Inc, I have played a key role in the company's growth and development. I have developed customized versions of "Blend_My_NFTs" to cater to the specific needs of our clients, and have played a significant role in the asset generation of multiple NFT collections. I have also researched and developed methods to create cloud rendering, storage, and NFT minting platforms that would enable 3D graphical artists to launch their own 3D NFT collections with ease.
-
-In addition to my technical responsibilities, I have also managed my team at This Cozy Studio. I have successfully managed finances and client relations, as well as multiple complex projects that combine development, 3D graphical design, and teamwork skills. My diverse set of skills, including technical abilities, software development, leadership, and management, make me a highly valuable asset to any organization or startup.
