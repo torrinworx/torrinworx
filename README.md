@@ -1,1 +1,1 @@
-[https://torrin.me/](https://torrin.me/)
+[torrin.me](https://torrin.me/)
