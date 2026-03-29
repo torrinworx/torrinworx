@@ -1,3 +1,3 @@
-Full-stack software engineer, 9 years professional experience.
+Full-stack software engineer.
 Open to roles and contracts.
 Learn more at: [torrin.me](https://torrin.me/)
